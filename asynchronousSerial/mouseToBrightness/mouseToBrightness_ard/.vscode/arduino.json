@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem14317501",
+    "sketch": "../mouseToBrightness_ard/mouseToBrightness_ard.ino"
+}

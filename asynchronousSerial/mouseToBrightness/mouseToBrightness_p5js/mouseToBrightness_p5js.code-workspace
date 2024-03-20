@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mouseToBrightness_ard"
+		},
+		{
+			"path": "../../../../../../Arduino/automatons_2023/Braitenburg experiments/beyondBraitenburg/T01-0604plusnew_model"
+		}
+	],
+	"settings": {}
+}
