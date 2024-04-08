@@ -21,6 +21,6 @@
 
 let URL_FROM_INSTANCE = 'netart-2024.cloud.shiftr.io'; // "your-URL-from-token"
 
-let DEVICE_NAME_IN_QUOTES    = 'a_sendAndParse_loopBack_P5';
+let DEVICE_NAME_IN_QUOTES    = 'sendAndParse_loopBack_P5';
 let INSTANCE_OR_USER_NAME    = 'netart-2024'; //'INSTANCE-NAME-HERE'
-let CHECK_DtwoL_FOR_MQTT_KEY = 'VhVC++++++W7JPa8';  // 'REPLACE-WITH-KEY-from-token'
+let CHECK_DtwoL_FOR_MQTT_KEY = 'VhVCF97cSuW7JPa8';  // 'REPLACE-WITH-KEY-from-token'
